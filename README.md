@@ -9,6 +9,7 @@ https://joanmagam.github.io/markdown-preview-app/
 
 ### Preview: 
 
-![image](https://github.com/JoanMaGam/markdown-preview-app/assets/122151033/49accbe2-fbe4-47ab-b2f7-1f00d17b9a90)
+![image](https://github.com/JoanMaGam/markdown-preview-app/assets/122151033/636e09ab-bf42-4c3b-bd28-295193afc54c)
+
 
 
